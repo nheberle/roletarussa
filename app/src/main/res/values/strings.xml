@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RoletaRussa</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_title">Roleta Russa</string>
+    <string name="hint_new_people">Insira o nome da pessoa:</string>
+    <string name="hint_name">Nome</string>
+    <string name="dialog_alert_password">Nova Pessoa</string>
+    <string name="hint_error">Erro ao criar nova pessoa</string>
+    <string name="dialog_lets_talk">Vamos falar mal de:</string>
+    <string name="action_exit">Sair</string>
+</resources>
